@@ -1,0 +1,1 @@
+{"batch_size": 16.0, "embedding_size": 117.0, "epochs": 6.0, "model_type": "concatenated", "test_size": 0.15303756705605254, "validation_split": 0.2759000520461075}

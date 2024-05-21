@@ -4,6 +4,11 @@
 
 This repository contains a recommendation system model designed to provide personalized movie recommendations to users utilizing collaborative filtering techniques and the MovieLens dataset.
 
+## Purpose of the Project
+
+Dive into the world of recommender systems, focusing on exploring different methods to use the data (such as negative sample generation and splitting), various evaluation techniques, and different model architectures. This project emphasizes clean code, modularization, and mastering Git/GitHub. Feel free to contribute and enhance the functionality and performance of the recommendation system 😊.
+
+
 ## Model Functionality
 
 ### Data Preprocessing
